@@ -1,0 +1,14 @@
+C:\Users\Aleksandar\source\repos\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\bin\Debug\DNP2-Delegate-Ass2.exe.config
+C:\Users\Aleksandar\source\repos\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\bin\Debug\DNP2-Delegate-Ass2.exe
+C:\Users\Aleksandar\source\repos\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\bin\Debug\DNP2-Delegate-Ass2.pdb
+C:\Users\Aleksandar\source\repos\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\obj\Debug\DNP2-Delegate-Ass2.csprojAssemblyReference.cache
+C:\Users\Aleksandar\source\repos\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\obj\Debug\DNP2-Delegate-Ass2.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\source\repos\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\obj\Debug\DNP2-Delegate-Ass2.exe
+C:\Users\Aleksandar\source\repos\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\obj\Debug\DNP2-Delegate-Ass2.pdb
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\bin\Debug\DNP2-Delegate-Ass2.exe.config
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\bin\Debug\DNP2-Delegate-Ass2.exe
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\bin\Debug\DNP2-Delegate-Ass2.pdb
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\obj\Debug\DNP2-Delegate-Ass2.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\obj\Debug\DNP2-Delegate-Ass2.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\obj\Debug\DNP2-Delegate-Ass2.exe
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\DNP2-Delegate-Ass2\DNP2-Delegate-Ass2\obj\Debug\DNP2-Delegate-Ass2.pdb

@@ -1,0 +1,13 @@
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\LAB12\LAB12\bin\Debug\Lab12.exe
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\LAB12\LAB12\bin\Debug\Lab12.pdb
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\LAB12\LAB12\obj\Debug\DNP2-WPF2-Ass6.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\LAB12\LAB12\obj\Debug\Window1.baml
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\LAB12\LAB12\obj\Debug\Window1.g.cs
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\LAB12\LAB12\obj\Debug\App.g.cs
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\LAB12\LAB12\obj\Debug\Lab12_MarkupCompile.cache
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\LAB12\LAB12\obj\Debug\Lab12.g.resources
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\LAB12\LAB12\obj\Debug\LAB12.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\LAB12\LAB12\obj\Debug\DNP2-WPF2-Ass6.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\LAB12\LAB12\obj\Debug\DNP2-WPF2-Ass6.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\LAB12\LAB12\obj\Debug\Lab12.exe
+C:\Users\Aleksandar\Desktop\DNP2-Assignments\DNP2-ASYNC-Ass7\LAB12\LAB12\obj\Debug\Lab12.pdb

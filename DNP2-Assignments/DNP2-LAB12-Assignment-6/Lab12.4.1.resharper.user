@@ -1,0 +1,34 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8BDA360D-238D-4F7D-BEF1-0EEFBFA38D1F/f:App.xaml" caret="27" scrollPosition="0|0" />
+      <File id="8BDA360D-238D-4F7D-BEF1-0EEFBFA38D1F/f:App.xaml.cs" caret="0" scrollPosition="0|0" />
+      <File id="8BDA360D-238D-4F7D-BEF1-0EEFBFA38D1F/f:Window1.xaml.cs" caret="686" scrollPosition="0|4" />
+      <File id="8BDA360D-238D-4F7D-BEF1-0EEFBFA38D1F/f:Window1.xaml" caret="1" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8BDA360D-238D-4F7D-BEF1-0EEFBFA38D1F/f:App.xaml" caret="27" scrollPosition="0|0" />
+      <File id="8BDA360D-238D-4F7D-BEF1-0EEFBFA38D1F/f:Window1.xaml" caret="22" scrollPosition="0|0" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

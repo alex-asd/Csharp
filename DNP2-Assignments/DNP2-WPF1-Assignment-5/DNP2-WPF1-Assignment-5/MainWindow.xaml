@@ -1,0 +1,23 @@
+﻿<Window x:Class="DNP2_WPF1_Ass5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DNP2_WPF1_Ass5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="630.297"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="Title:" HorizontalAlignment="Left" Margin="368,44,0,0" VerticalAlignment="Top" Width="63" FontSize="16"/>
+        <Label x:Name="title_label" Content="" HorizontalAlignment="Left" Margin="436,44,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Artist:" HorizontalAlignment="Left" Margin="368,78,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="artist_label" Content="" HorizontalAlignment="Left" Margin="436,78,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Genre:" HorizontalAlignment="Left" Margin="368,109,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="genre_label" Content="" HorizontalAlignment="Left" Margin="436,109,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Type:" HorizontalAlignment="Left" Margin="368,140,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label x:Name="type_label" Content="" HorizontalAlignment="Left" Margin="436,140,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.515,0.521" FontSize="16"/>
+        <ListBox x:Name="ListBox" HorizontalAlignment="Left" SelectionChanged="ListBox_SelectionChanged" Margin="40,40,0,40" Width="280"/>
+        <Button Content="Add New Item" Click="Button_Click" HorizontalAlignment="Left" Margin="368,344,0,0" VerticalAlignment="Top" Width="160" Height="35" FontSize="16"/>
+
+    </Grid>
+</Window>

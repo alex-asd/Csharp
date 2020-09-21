@@ -1,0 +1,50 @@
+C:\Uddannelse\VIA\ACP\Exercises\WPF\LAB12\LAB12\obj\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\VIA\ACP\Exercises\WPF\LAB12\LAB12\obj\Debug\Window1.baml
+C:\Uddannelse\VIA\ACP\Exercises\WPF\LAB12\LAB12\obj\Debug\Window1.g.cs
+C:\Uddannelse\VIA\ACP\Exercises\WPF\LAB12\LAB12\obj\Debug\App.g.cs
+C:\Uddannelse\VIA\ACP\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12_MarkupCompile.cache
+C:\Uddannelse\VIA\ACP\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12.g.resources
+C:\Uddannelse\VIA\ACP\Exercises\WPF\LAB12\LAB12\obj\Debug\LAB12.Properties.Resources.resources
+C:\Uddannelse\VIA\ACP\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12.csproj.GenerateResource.Cache
+C:\Uddannelse\VIA\ACP\Exercises\WPF\LAB12\LAB12\bin\Debug\Lab12.exe
+C:\Uddannelse\VIA\ACP\Exercises\WPF\LAB12\LAB12\bin\Debug\Lab12.pdb
+C:\Uddannelse\VIA\ACP\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12.exe
+C:\Uddannelse\VIA\ACP\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12.pdb
+C:\Uddannelse\DNP2\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12.exe
+C:\Uddannelse\DNP2\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12.pdb
+C:\Uddannelse\DNP2\Exercises\WPF\LAB12\LAB12\bin\Debug\Lab12.exe
+C:\Uddannelse\DNP2\Exercises\WPF\LAB12\LAB12\bin\Debug\Lab12.pdb
+C:\Uddannelse\DNP2\Exercises\WPF\LAB12\LAB12\obj\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Exercises\WPF\LAB12\LAB12\obj\Debug\Window1.baml
+C:\Uddannelse\DNP2\Exercises\WPF\LAB12\LAB12\obj\Debug\Window1.g.cs
+C:\Uddannelse\DNP2\Exercises\WPF\LAB12\LAB12\obj\Debug\App.g.cs
+C:\Uddannelse\DNP2\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12_MarkupCompile.cache
+C:\Uddannelse\DNP2\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12.g.resources
+C:\Uddannelse\DNP2\Exercises\WPF\LAB12\LAB12\obj\Debug\LAB12.Properties.Resources.resources
+C:\Uddannelse\DNP2\Exercises\WPF\LAB12\LAB12\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Uddannelse\DNP2\Exercises\WPF\LAB12\LAB12\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Uddannelse\DNPI2 Autumn 2012\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Exercises\WPF\LAB12\LAB12\bin\Debug\Lab12.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Exercises\WPF\LAB12\LAB12\bin\Debug\Lab12.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12.csprojResolveAssemblyReference.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Exercises\WPF\LAB12\LAB12\obj\Debug\Window1.baml
+C:\Uddannelse\DNPI2 Autumn 2012\Exercises\WPF\LAB12\LAB12\obj\Debug\Window1.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Exercises\WPF\LAB12\LAB12\obj\Debug\App.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12_MarkupCompile.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12.g.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Exercises\WPF\LAB12\LAB12\obj\Debug\LAB12.Properties.Resources.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Exercises\WPF\LAB12\LAB12\obj\Debug\Lab12.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Desktop\LAB12\LAB12\obj\Debug\Lab12.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\LAB12\LAB12\obj\Debug\App.g.cs
+C:\Users\Aleksandar\Desktop\LAB12\LAB12\obj\Debug\Lab12_MarkupCompile.cache
+C:\Users\Aleksandar\Desktop\LAB12\LAB12\obj\Debug\Lab12.exe
+C:\Users\Aleksandar\Desktop\LAB12\LAB12\obj\Debug\Lab12.pdb
+C:\Users\Aleksandar\Desktop\LAB12\LAB12\bin\Debug\Lab12.exe
+C:\Users\Aleksandar\Desktop\LAB12\LAB12\bin\Debug\Lab12.pdb
+C:\Users\Aleksandar\Desktop\LAB12\LAB12\obj\Debug\Window1.baml
+C:\Users\Aleksandar\Desktop\LAB12\LAB12\obj\Debug\Window1.g.cs
+C:\Users\Aleksandar\Desktop\LAB12\LAB12\obj\Debug\Lab12.g.resources
+C:\Users\Aleksandar\Desktop\LAB12\LAB12\obj\Debug\LAB12.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\LAB12\LAB12\obj\Debug\Lab12.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\LAB12\LAB12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache

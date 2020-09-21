@@ -1,0 +1,7 @@
+C:\Users\Aleksandar\source\repos\DNP2-LINQ-Ass3\DNP2-LINQ-Ass3\bin\Debug\DNP2-LINQ-Ass3.exe.config
+C:\Users\Aleksandar\source\repos\DNP2-LINQ-Ass3\DNP2-LINQ-Ass3\bin\Debug\DNP2-LINQ-Ass3.exe
+C:\Users\Aleksandar\source\repos\DNP2-LINQ-Ass3\DNP2-LINQ-Ass3\bin\Debug\DNP2-LINQ-Ass3.pdb
+C:\Users\Aleksandar\source\repos\DNP2-LINQ-Ass3\DNP2-LINQ-Ass3\obj\Debug\DNP2-LINQ-Ass3.csprojAssemblyReference.cache
+C:\Users\Aleksandar\source\repos\DNP2-LINQ-Ass3\DNP2-LINQ-Ass3\obj\Debug\DNP2-LINQ-Ass3.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\source\repos\DNP2-LINQ-Ass3\DNP2-LINQ-Ass3\obj\Debug\DNP2-LINQ-Ass3.exe
+C:\Users\Aleksandar\source\repos\DNP2-LINQ-Ass3\DNP2-LINQ-Ass3\obj\Debug\DNP2-LINQ-Ass3.pdb
